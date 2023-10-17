@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Kohki's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-84mo10&count_private=true)
+![K-84mo10's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-84mo10&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-84mo10&count_private=true&layout=compact)](https://github.com/k-84mo10/github-readme-stats)
 
 <!--
